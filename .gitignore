@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+.env
+.venv/
+venv/
+env/
+
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+
+# Grafana data
+grafana-data/
+prometheus-data/
+
+STATUS.md
