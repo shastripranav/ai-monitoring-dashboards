@@ -1,5 +1,7 @@
 # AI/ML Monitoring Dashboard Templates
 
+[![CI](https://github.com/shastripranav/ai-monitoring-dashboards/actions/workflows/ci.yml/badge.svg)](https://github.com/shastripranav/ai-monitoring-dashboards/actions/workflows/ci.yml)
+
 Pre-built Grafana dashboards and a Python Prometheus metrics library for monitoring LLM APIs, ML model performance, and multi-agent orchestration.
 
 Ships as a Docker Compose stack — `docker compose up` gives you Prometheus, Grafana, and a demo FastAPI app with three dashboards auto-provisioned and showing live data within 60 seconds.
